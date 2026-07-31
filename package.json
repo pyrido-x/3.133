@@ -1,0 +1,13 @@
+{
+  "name": "digital-fog-game",
+  "version": "1.0.0",
+  "description": "3133多人对战",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "socket.io": "^4.7.5"
+  }
+}
